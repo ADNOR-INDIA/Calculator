@@ -22,6 +22,7 @@ let screenValue = '';
 
 buttonAC.addEventListener("click", function(){
     screen.value='';
+    screenValue='';
 })
 button0.addEventListener("click", function(){
     screenValue+=0;

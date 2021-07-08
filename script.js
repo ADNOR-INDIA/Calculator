@@ -63,7 +63,7 @@ button8.addEventListener("click", function(){
 })
 button9.addEventListener("click", function(){
     screenValue+= 9;
-     screen.value = screeValue;
+     screen.value = screenValue;
 })
 buttonplus.addEventListener("click", function(){ 
     screenValue+='+'; 
